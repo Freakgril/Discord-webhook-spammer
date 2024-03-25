@@ -1,2 +1,3 @@
 # Discord-webhook-spammer
-You can spam with how many webhooks you want
+Add your webhook urls in webhook.txt
+Then you just run main.py
